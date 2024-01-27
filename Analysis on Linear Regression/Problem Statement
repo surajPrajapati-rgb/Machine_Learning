@@ -1,7 +1,0 @@
-- Write a Python code to implement Linear Regression for multi-dimensional input and one-dimensional output using Matrix Inverse. You can use NumPy to do matrix inverse, but you are encouraged to write your own code for this task also.
-
-- Verify your results using the scikit-learn Linear Regression package. 
-
-- Write a code to minimise the squared error function using Gradient Descent, and compare the results with the above methods.
-
-- Find the best fit hyperplane for the four synthetic datasets attached. Two of them will directly give good results with the usual Linear Regression algo, one of them will require a non-linear transformation of the input features, and for one of them the standard Linear Regression algo is not suitable. You need to figure out which of the 4 datasets belongs to which of these categories, with proper reasoning.
